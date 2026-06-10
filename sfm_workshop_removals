@@ -1,3 +1,5 @@
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3726101551;
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3730338033;
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3681640058;
+UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3733554325;
+UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3730494107;
