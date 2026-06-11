@@ -3,3 +3,5 @@ UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3730338033;
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3681640058;
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3733554325;
 UPDATE items SET removal_requested = TRUE WHERE publishedfileid = 3730494107;
+
+INSERT INTO removed_creators (creator) VALUES (76561199492207531);
